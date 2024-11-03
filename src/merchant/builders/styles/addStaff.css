@@ -1,0 +1,55 @@
+.add_staff_modal_wrapper{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    width: 500px;
+}
+.add_staff_title_div{
+    background-color: #B20C02;
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+.add_staff_title{
+    margin: 0;
+    color: #FFFFFF;
+}
+.add_staff_modal_close_btn{
+    background-color: transparent;
+    color: #FFFFFF;
+    border: none;
+}
+.add_staff_form{
+    padding: 20px;
+
+}
+.add_staff_form_label{
+
+}
+.add_staff_form_input{
+    border: 1px solid #BCBCBC;
+    padding: 2px 5px 2px 5px;
+}
+.add_staff_modal_btns_div{
+    display: flex;
+    justify-content: space-between;
+}
+.add_staff_modal_cancel_btn{
+    background-color: transparent;
+    height: 38px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid #D9D9D9;
+    
+}
+.add_staff_modal_submit_btn{
+    background-color: transparent;
+    height: 38px;
+    width:70px;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    background-color: #B20C02;
+    color: #FFFFFF;
+}

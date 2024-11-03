@@ -1,0 +1,18 @@
+{
+  "wallet_balance": "Wallet Balance",
+  "available_balance": "Available Balance",
+  "failed_transactions": "Failed Transactions",
+  "new_customers": "New Customers",
+  "revenue": "Revenue",
+  "gross_volume": "Gross Volume",
+  "net_volume": "Net Volume",
+  "filter_by_date": "Filter by date",
+  "filter_by_amount": "Filter by amount",
+  "transactions": "Transactions",
+  "customer": "Customer",
+  "date": "Date",
+  "item": "Item",
+  "status": "status",
+  "payment_method": "Payment Method",
+  "amount": "Amount"
+}

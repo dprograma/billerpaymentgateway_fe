@@ -1,0 +1,41 @@
+.login_super_container{
+    background-image: linear-gradient(#B20C02, rgb(90, 14, 14));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 50px;
+}
+.admin_login_form{
+    width: 400px;
+    height: 350px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-sizing: content-box;
+}
+.login_form_title{
+    text-align: center;
+    color: #B20C02;
+    font-weight: 700;
+}
+.form_label{
+    font-size: 14px;
+    font-weight: 500;
+    display: unset;
+}
+.form_input{
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    margin: 5px 0 20px 0;
+}
+.login_btn{
+    border: none;
+    background-color: #B20C02;
+    color: #FFFFFF;
+    width: 100% !important;
+    height: 48px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}

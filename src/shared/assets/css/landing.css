@@ -1,0 +1,108 @@
+.landing-page {
+  /* background-image: linear-gradient(#B20C02, rgb(90, 14, 14)); */
+  background-image: url("../images/background18.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.logo {
+  max-width: 150px;
+  margin-bottom: 30px;
+}
+
+.btn-group .btn {
+  margin: 10px;
+}
+
+h1.display-4 {
+  color: white;
+  font-size: 2.5rem;
+  margin-bottom: 65px;
+  font-weight: 700;
+}
+
+span.leads {
+  font-size: 1.45rem;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.feature-icons {
+  margin: 20px 0;
+}
+
+.feature-icons div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.feature-icons span {
+  color: white;
+  font-weight: 500;
+  font-size: 1.35rem;
+}
+
+.icon-container {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.icon-container:hover {
+  background-color: white;
+  color: #000;
+}
+
+
+@media (max-width: 767px) {
+  .language-switcher-container {
+    position: relative;
+    margin-bottom: 20px;
+  }
+
+  .language-switcher {
+    position: absolute;
+    right: 50px;
+    top: 20px;
+    margin-left: 0 !important;
+  }
+
+  .language-switcher .dropdown-toggle {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+
+  h1.display-4 {
+    color: white;
+    font-size: 2.5rem;
+    margin-bottom: 35px;
+    font-weight: 700;
+  }
+
+  .feature-icons {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .feature-icons span {
+    color: white;
+    font-weight: 500;
+    font-size: 1.2rem;
+  }
+}

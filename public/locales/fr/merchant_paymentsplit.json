@@ -1,0 +1,19 @@
+{
+    "payment_split": "Répartition des paiements",
+    "payment_split_description": "Gérez la répartition des paiements entre différents membres ou sous-comptes.",
+    "create_payment_split": "Créer une répartition de paiement",
+    "my_percentage": "Mon pourcentage : 50%",
+    "edit": "Modifier",
+    "split_name": "Nom de la répartition",
+    "description": "Description",
+    "currency": "Devise",
+    "sub_account": "Sous-comptes",
+    "new_business_project": "Nouveau projet d'entreprise",
+    "add_member": "Ajouter un membre",
+    "member": "Membre",
+    "date_added": "Date d'ajout",
+    "bank_details": "Coordonnées bancaires",
+    "percentage": "Pourcentage",
+    "amount_earned": "Montant gagné",
+    "actions": "Actions"
+}

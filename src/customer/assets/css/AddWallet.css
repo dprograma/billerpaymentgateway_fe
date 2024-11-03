@@ -1,0 +1,100 @@
+/* AddWallet.css */
+.add-wallet-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.add-wallet-card {
+    flex: 1;
+    max-width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.add-wallet-title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.add-wallet-form {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px 40px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.add-wallet-form .form-group {
+    margin-bottom: 15px;
+}
+
+.add-wallet-form label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+.add-wallet-form .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.add-wallet-form .btn-primary {
+    width: 100%;
+    padding: 10px;
+    background-color: #c20c02;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.add-wallet-form .btn-primary:hover {
+    background-color: #c20c02;
+}
+
+.wallet-details {
+    flex: 1;
+    max-width: 500px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 20px;
+}
+
+.wallet-details-card {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.wallet-details-card p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+.wallet-details h4 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .wallet-details {
+        margin-left: 0;
+        margin-top: 20px;
+        max-width: 100%;
+    }
+}

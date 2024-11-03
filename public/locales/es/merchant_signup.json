@@ -1,0 +1,17 @@
+{
+    "merchant_account": "Creación de Cuenta de Comerciante",
+    "first_name": "Nombre",
+    "last_name": "Apellido",
+    "phone_number": "Número de Teléfono",
+    "tel": "+234",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirm_password": "Confirmar Contraseña",
+    "create_account": "Crear Cuenta",
+    "already_have_account": "¿Ya tienes una cuenta?",
+    "sign_in": "Iniciar Sesión",
+    "join_us": "¡Únete a nosotros ahora!",
+    "create_your_account": "Crea tu cuenta y explora infinitas posibilidades.",
+    "i_agree": "Acepto los",
+    "terms_and_conditions": "Términos y Condiciones"
+}

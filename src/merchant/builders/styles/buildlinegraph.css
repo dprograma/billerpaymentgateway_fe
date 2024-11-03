@@ -1,0 +1,26 @@
+.linechart_container {
+  background-color: transparent;
+  height: 300px;
+  width: 100%;
+  position: relative;
+}
+
+.chart_graph {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  
+.load_msg {
+  font-style: italic;
+  font-size: 14px;
+  animation: glow 1s infinite;
+}
+@keyframes glow {
+  to {
+    color: gray;
+  }
+}

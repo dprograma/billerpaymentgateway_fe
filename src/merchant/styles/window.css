@@ -1,0 +1,129 @@
+.window-main{
+    display: flex;
+    overflow: hidden;    
+}
+.w_hr{
+    height: 1px;
+    background-color: #ffeeec;
+    border: none;
+}
+.menu_bar{
+    background-color: #B20C02;
+    color: hsl(0, 0%, 100%);
+    width: auto;
+    min-width: 22%;
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: none;
+}
+.menu_bar div{
+    height: 80px;
+}
+.menu_bar div img{
+    padding: 10% 25% 10% 10%;
+}
+.menu_bar ul{
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0 20px 20px 20px;
+}
+.menu_bar .inactive{
+    padding: 12px;
+    margin: 10px 0 10px 0;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.menu_bar .inactive:hover{
+    background-color: #FFE7E5;
+    opacity: 70%;
+    color: #B20C02;
+    border-radius: 8px;
+}
+.menu_bar .active{
+    padding: 12px;
+    margin: 10px 0 10px 0;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    background-color: #FFE7E5;
+    color: #B20C02;
+    border-radius: 8px;
+}
+.window{
+    width: 78%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    background-color: #FFDFDD;
+    background-color: #B20C02;
+    height: 60px;
+    padding: 20px 5px 20px 5px;
+    align-items: center;
+}
+.header .profile_dropdown_opts_open li {
+    padding: 10px;
+}
+.header .profile_dropdown_opts_open li a{
+    text-decoration: none;
+    color: #000000;
+    width: 100%;
+}
+.header .profile_dropdown_opts_open{
+    list-style-type: none;
+    position: absolute;
+    top: 70px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px gray;
+    background-color: #FFFFFF;
+}
+.header .profile_dropdown_opts_close{
+    list-style-type: none;
+    display: none;
+}
+.header .header_ln1{ 
+    width: 80%;
+}
+.header .header_ln1 p{
+    margin: 2px;
+}
+.header .header_ln1 .welcome_msg{
+   font-size: 12px;
+   color: #FFFFFF;
+}
+.header .header_ln1 .users_name{
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.header .header_ln2{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+.header_ln2_field1, .header_ln2_field2, 
+.header_ln2_field3, .header_ln2_field4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #FFFFFF
+}
+.header .header_ln2 p{
+    font-size: 12px;
+    margin: 0;
+    color: #FFFFFF
+}
+.view_screen_container{
+    height: 100%;
+    overflow-y: scroll;
+}
+.view_screen{
+    height: 100%;
+    padding: 20px;
+}

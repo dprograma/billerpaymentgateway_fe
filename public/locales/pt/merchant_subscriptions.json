@@ -1,0 +1,11 @@
+{
+    "subscription_plans": "Planos de assinatura",
+    "create_flexible": "Crie planos de assinatura flexíveis adaptados ao seu negócio",
+    "create_new": "Criar novo plano", 
+    "filter_by_date": "Filtrar por data",
+    "filter_by_amount": "Filtrar por valor",
+    "name_of_plan": "Nome do plano",
+    "cost": "Custo",
+    "frequency": "Frequência",
+    "subscribers": "Assinantes"
+}

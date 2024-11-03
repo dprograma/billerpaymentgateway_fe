@@ -1,0 +1,16 @@
+{
+    "withdrawals": "Retraits",
+    "descriptive_body": "Un texte descriptif vient ici",
+    "request_withdrawal": "Demander un retrait",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "filter_by_date": "Filtrer par date",
+    "filter_by_amount": "Filtrer par montant",
+    "wallet_balance": "Solde du portefeuille",
+    "available_balance": "Solde disponible",
+    "total_requested": "Total demandé",
+    "total_received": "Total reçu",
+    "amount": "Montant",
+    "date_requested": "Date demandée",
+    "status": "Statut"
+}

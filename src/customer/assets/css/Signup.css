@@ -1,0 +1,107 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-light {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #ccc;
+}
+
+.btn-dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.language-switcher-wrapper {
+  position: absolute;
+  top: 20px; 
+  right: 20px; 
+  z-index: 1000;
+}
+
+.language-switcher-wrapper select {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.dropdown-menu.show {
+  width: 200px !important;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8));
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #d4cfcf;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.signup-heading {
+  font-size: 3.5rem;
+  letter-spacing: -1px;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: #d4cfcf;
+  word-spacing: -1px;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.signup-subtext {
+  font-size: 1.3rem;
+  width: 300px;
+  animation: slideUp 2.5s ease-in-out;
+  overflow-wrap: break-word;
+  word-spacing: 1px;
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 767.98px) {
+  .card {
+    height: auto;
+  }
+
+  .col-md-6 {
+    display: none;
+  }
+}

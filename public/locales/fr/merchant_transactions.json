@@ -1,0 +1,17 @@
+{
+    "transactions": "Transactions",
+    "transaction_details": "Détails de la transaction",
+    "search": "Recherche",
+    "filter": "Filtrer",
+    "filter_by_date": "Filtrer par date",
+    "filter_by_amount": "Filtrer par montant",
+    "export_csv": "Exporter CSV",
+    "export_pdf": "Exporter PDF",
+    "ref_no": "Réf. No",
+    "name": "Nom",
+    "date": "Date",
+    "item": "Article",
+    "status": "Statut",
+    "mode": "Mode de paiement",
+    "amount": "Montant"
+}

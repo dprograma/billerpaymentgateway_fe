@@ -1,0 +1,16 @@
+{
+  "welcome": "Bem-vindo ao aplicativo de usuário Ojapay",
+  "login": "Faça login no seu painel e vamos lá!",
+  "email": "Email",
+  "password": "Senha",
+  "login_button": "Entrar",
+  "dont_have_account": "Não tem uma conta?",
+  "signup_button": "Inscreva-se",
+  "forgot_password": "Esqueceu a senha?",
+  "enter_password": "Digite sua senha",
+  "enter_email": "Digite seu email",
+  "email_required": "O email é obrigatório",
+  "password_required": "A senha é obrigatória",
+  "welcome_back": "Bem-vindo de volta!",
+  "sign_in_to_continue": "Faça login para continuar em sua conta e acessar seu painel personalizado."
+}

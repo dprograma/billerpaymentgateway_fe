@@ -1,0 +1,143 @@
+/* .req_payout_modal_wrapper{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    width: 500px;
+    position: absolute;
+    top: 300px;
+    left: 40%;
+}
+.req_payout_title_div{
+    background-color: #B20C02;
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+.req_payout_title{
+    margin: 0;
+    color: #FFFFFF;
+}
+.req_payout_modal_close_btn{
+    background-color: transparent;
+    color: #FFFFFF;
+    border: none;
+}
+.req_payout_form{
+    padding: 20px;
+
+}
+.req_payout_form_label{
+
+}
+.req_payout_form_input{
+    border: 1px solid #BCBCBC;
+    padding: 2px 5px 2px 5px;
+}
+.req_payout_phone_div{
+    display: flex;
+    gap: 20px;
+}
+.req_payout_hr{
+    margin-bottom: 20px;
+}
+.req_payout_modal_btns_div{
+    display: flex;
+    justify-content: space-between;
+}
+.req_payout_modal_cancel_btn{
+    background-color: transparent;
+    height: 38px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid #D9D9D9;
+    
+}
+.req_payout_modal_submit_btn{
+    background-color: transparent;
+    height: 38px;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    background-color: #B20C02;
+    color: #FFFFFF;
+} */
+
+.req_payout_modal_wrapper {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    width: 400px;
+    z-index: 1000;
+  }
+  
+  .req_payout_title_div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .req_payout_title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .req_payout_modal_close_btn {
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .req_payout_form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .req_payout_form_label {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .req_payout_form_input {
+    margin-top: 5px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .req_payout_hr {
+    margin: 20px 0;
+  }
+  
+  .req_payout_modal_btns_div {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .req_payout_modal_cancel_btn,
+  .req_payout_modal_submit_btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .req_payout_modal_cancel_btn {
+    background: #ccc;
+  }
+  
+  .req_payout_modal_submit_btn {
+    background: #007bff;
+    color: #fff;
+  }
+  

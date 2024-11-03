@@ -1,0 +1,93 @@
+.wn_super_cont{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+.wn_admin_header{
+    background-color: #171717;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wn_admin_header {
+    flex-shrink: 0;
+}
+.wn_profile_pill{
+    width: 170px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.wn_profile_name{
+    font-size: 14px;
+    font-weight: 500;
+}
+.wn_notification_cont{
+
+}
+/* .wn_menu_bar{
+    background-color: #B20C02;
+    color: hsl(0, 0%, 100%);
+    width: 300px;
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: none;
+} */
+.wn_menu_bar {
+    background-color: #B20C02;
+    color: hsl(0, 0%, 100%);
+    width: 300px;
+    overflow-y: auto;
+    flex-shrink: 0;
+}
+.wn_menu_bar div{
+    height: 80px;
+}
+.wn_menu_bar div img{
+    padding: 10% 25% 10% 10%;
+}
+.wn_menu_bar ul{
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+}
+.wn_menu_bar ul li{
+    border-bottom: 1px solid #FFE7E5;
+}
+.wn_menu_bar .inactive{
+    padding: 12px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.wn_menu_bar .inactive:hover{
+    color: #FFE7E5;
+    background-color: #171717;
+    opacity: 70%;
+}
+.wn_menu_bar .active{
+    padding: 12px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color: #FFE7E5;
+    background-color: #171717;
+}
+.wn_admin_view_screen{
+    background-color: rgb(240, 240, 240);
+    width: 100%;
+}
+.main_content_container {
+    display: flex;
+    flex-grow: 1; /* Allows it to take remaining space */
+    overflow: hidden; /* Prevent horizontal scroll */
+}
+.wn_admin_footer{
+
+}

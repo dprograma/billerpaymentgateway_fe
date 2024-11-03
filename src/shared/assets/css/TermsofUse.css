@@ -1,0 +1,35 @@
+.terms-container {
+    position: relative;
+    padding-bottom: 50px; /* Space for the footer or bottom buttons */
+  }
+  
+  .terms-content {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #b20c02;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 50px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .scroll-to-top:hover {
+    background-color: #920a03;
+    transform: scale(1.1);
+  }
+
+  

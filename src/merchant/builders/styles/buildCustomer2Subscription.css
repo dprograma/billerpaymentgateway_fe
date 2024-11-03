@@ -1,0 +1,17 @@
+.cust_sub_status_on{
+    color: #00A520;
+    background-color: #E0F4E8;
+    border-radius: 5px;
+    height: 20px;
+    padding: 3px;
+    max-width: 30px;
+    text-align: center;
+}
+.cust_sub_status_off{
+    color: #FF0000;
+    background-color: #F8E3E6;
+    border-radius: 5px;
+    padding: 3px;
+    max-width: 30px;
+    text-align: center;
+}

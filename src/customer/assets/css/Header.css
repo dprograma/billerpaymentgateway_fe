@@ -1,0 +1,154 @@
+/* Header background */
+.navbar {
+  background-color: #b20c02 !important; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+  padding: 0 2rem !important;
+}
+
+/* Logo styling */
+.navbar-brand img {
+  max-height: 40px !important; 
+}
+
+/* Navbar toggler styling */
+.navbar-toggler {
+  border: none !important;
+  color: #fff !important; 
+  font-size: 1.25rem !important;
+  padding: 0.5rem 1rem !important;
+}
+
+/* Offcanvas styling */
+.offcanvas {
+  background-color: #b20c02 !important;
+  color: #ffffff !important; 
+}
+
+.offcanvas-header {
+  padding: 1rem;
+  border-bottom: 1px solid #ffffff !important; 
+}
+
+.offcanvas-title {
+  color: #ffffff !important; 
+}
+
+.btn-close {
+  filter: invert(1) !important; 
+}
+
+.offcanvas-body {
+  padding: 1rem;
+  color: #ffffff !important; 
+}
+
+/* Navbar link styling */
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 1rem;
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff; 
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffebe6; 
+  background-color: transparent; 
+}
+
+/* Avatar styling */
+.navbar-nav .avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #ffffff; 
+  object-fit: cover;
+}
+
+/* Dropdown and add icon styling */
+.navbar-nav .dropdown-toggle {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0;
+}
+
+.dropdown-toggle {
+  color: #fff !important;
+}
+
+.navbar-nav .add-icon {
+  font-size: 1.25rem;
+  color: #ffffff;
+  margin-left: 0.5rem;
+}
+
+.navbar-nav .add-icon:hover {
+  color: #ffebe6; 
+}
+
+/* Dropdown menu styling */
+.dropdown-menu.show {
+  display: block;
+  width: 230px;
+  border-radius: 0;
+  border: 1px solid #dee2e6;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #b20c02 !important;
+}
+
+.dropdown-item {
+  font-size: 0.875rem;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.dropdown-item:hover {
+  background-color: #f1f1f1;
+  color: #b20c02;
+}
+
+/* Ensure icons within dropdown items change color on hover */
+.dropdown-item .icon {
+  transition: color 0.3s ease;
+}
+
+.dropdown-item:hover .icon {
+  color: #b20c02; /* Change icon color on hover */
+}
+
+/* Search input styling */
+.navbar-nav .search-input {
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+  color: #333;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-input::placeholder {
+  color: #999; 
+}
+
+/* Language switcher styling */
+.language-switcher {
+  margin-left: auto;
+  margin-right: 1rem;
+  color: #ffffff; 
+}
+
+.sticky-top {
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+}

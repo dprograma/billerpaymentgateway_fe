@@ -1,0 +1,55 @@
+.edit_role_modal_wrapper{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    width: 500px;
+}
+.edit_role_title_div{
+    background-color: #B20C02;
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+.edit_role_title{
+    margin: 0;
+    color: #FFFFFF;
+}
+.edit_role_modal_close_btn{
+    background-color: transparent;
+    color: #FFFFFF;
+    border: none;
+}
+.edit_role_form{
+    padding: 20px;
+
+}
+.edit_role_form_label{
+
+}
+.edit_role_form_input{
+    border: 1px solid #BCBCBC;
+    padding: 2px 5px 2px 5px;
+}
+.edit_role_modal_btns_div{
+    display: flex;
+    justify-content: space-between;
+}
+.edit_role_modal_cancel_btn{
+    background-color: transparent;
+    height: 38px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid #D9D9D9;
+    
+}
+.edit_role_modal_submit_btn{
+    background-color: transparent;
+    height: 38px;
+    width:70px;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    background-color: #B20C02;
+    color: #FFFFFF;
+}

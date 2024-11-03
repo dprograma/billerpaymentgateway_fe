@@ -1,0 +1,16 @@
+{
+    "withdrawals": "Saques",
+    "descriptive_body": "Um texto descritivo vem aqui",
+    "request_withdrawal": "Solicitar saque",
+    "search": "Pesquisar",
+    "filter": "Filtrar",
+    "filter_by_date": "Filtrar por data",
+    "filter_by_amount": "Filtrar por valor",
+    "wallet_balance": "Saldo da carteira",
+    "available_balance": "Saldo disponível",
+    "total_requested": "Total solicitado",
+    "total_received": "Total recebido",
+    "amount": "Valor",
+    "date_requested": "Data solicitada",
+    "status": "Status"
+}

@@ -1,0 +1,86 @@
+.wn_super_cont {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+}
+
+.wn_admin_header {
+    background-color: #171717;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wn_profile_pill {
+    width: 170px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.wn_profile_name {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+main {
+    display: flex;
+    flex: 1;
+}
+
+.wn_menu_bar {
+    position: sticky;
+    top: 0;
+    background-color: #B20C02;
+    color: hsl(0, 0%, 100%);
+    width: 300px;
+    min-height: 100%;
+    overflow-y: auto;
+}
+
+.wn_menu_bar ul {
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+}
+
+.wn_menu_bar ul li {
+    border-bottom: 1px solid #FFE7E5;
+}
+
+.wn_menu_bar .inactive,
+.wn_menu_bar .active {
+    padding: 12px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.wn_menu_bar .inactive:hover {
+    color: #FFE7E5;
+    background-color: #171717;
+    opacity: 70%;
+}
+
+.wn_menu_bar .active {
+    color: #FFE7E5;
+    background-color: #171717;
+}
+
+.wn_admin_view_screen {
+    flex-grow: 1;
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.wn_admin_footer {
+    /* Add styling for footer as needed */
+}

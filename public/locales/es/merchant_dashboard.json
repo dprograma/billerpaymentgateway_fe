@@ -1,0 +1,18 @@
+{
+  "wallet_balance": "Saldo de la billetera",
+  "available_balance": "Saldo disponible",
+  "failed_transactions": "Transacciones fallidas",
+  "new_customers": "Nuevos clientes",
+  "revenue": "Ingresos",
+  "gross_volume": "Volumen bruto",
+  "net_volume": "Volumen neto",
+  "filter_by_date": "Filtrar por fecha",
+  "filter_by_amount": "Filtrar por cantidad",
+  "transactions": "Transacciones",
+  "customer": "Cliente",
+  "date": "Fecha",
+  "item": "Artículo",
+  "status": "Estado",
+  "payment_method": "Método de pago",
+  "amount": "Cantidad"
+}

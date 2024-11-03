@@ -1,0 +1,81 @@
+.unvarified_container{
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35%;
+    height: auto;
+    border-radius: 20px;
+    padding: 20px;
+    /* box-shadow: 0  0 10px gray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    justify-content: center;
+    z-index: 1001; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.message_wrapper{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.success_txt{
+    text-align: center;
+    width: 300px;
+    font-weight: 500;
+}
+.action_wrapper{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
+.new_acct_successIcon{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #DBFFEC;
+}
+.section{
+    border: 1px solid #8C8CA1;
+    padding: 10px;
+    border-radius: 10px;
+    width: 150px;
+}
+.demo_pill_wrapper{
+    padding: 10px;
+    background-color: #ECF1F4;
+    border-radius: 30px;
+}
+.get_verified_pill_wrapper{
+    padding: 10px;
+    background-color: #DBFFEC;
+    border-radius: 30px;
+    color: #27AE60;
+}
+.pill_title{
+    margin: 0;
+    text-align: center;
+    display: flex;
+    gap: 2px;
+    align-items: center;
+    justify-content: center;
+}
+.section_text{
+    text-align: center;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }

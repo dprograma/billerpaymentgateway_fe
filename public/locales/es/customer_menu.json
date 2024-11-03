@@ -1,0 +1,20 @@
+{
+  "user_type": "Tipo de usuario",
+  "tag": "Etiqueta",
+  "dashboard": "Tablero",
+  "fund_wallet": "Fondear billetera",
+  "send_money": "Enviar dinero",
+  "set_wallet_pin": "Establecer PIN de billetera",
+  "pay_bills": "Pagar facturas",
+  "transaction_history": "Historial de transacciones",
+  "cards": "Tarjetas",
+  "dispute": "Disputa",
+  "settings": "Configuraciones",
+  "support": "Soporte",
+  "make_donations": "Hacer donaciones",
+  "wallet_currency": "Moneda de la billetera",
+  "wallet_management": "Gestión de Carteras",
+  "add_wallet": "Agregar Cartera",
+  "wallet_summary": "Resumen de Cartera",
+  "wallet_withdrawal": "Retiro de Cartera"
+}

@@ -1,0 +1,139 @@
+
+.access_contrl_super_container{
+    padding: 10px;
+}
+.access_contrl_super_container_blur{
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+}
+.access_contrl_header_info{
+    display: flex;
+    align-items: center;
+}
+.access_contrl_header_title{
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0;
+}
+.access_contrl_desc_text{
+    margin-top: 2px;
+}
+.access_contrl_add_staff_btn, .access_contrl_create_role_btn{
+    background-color: #B20C02;
+    color: #FFFFFF;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+}
+.access_contrl_tab_cont{
+    display: flex;
+    justify-content: space-between;
+}
+.access_contrl_tab_wrpr{
+    background-color: #ECF1F4;
+    padding: 7px;
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    border-radius: 10px;
+}
+.access_control_tab{
+    font-size: 12px;
+    font-weight: 600;
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+}
+.access_control_tab_active{
+    font-size: 12px;
+    font-weight: 600;
+    padding: 15px;
+    border-bottom: 4px solid #B20C02;
+    width: 100%;
+    text-align: center;
+}
+.access_contrl_header{
+    display: flex;
+    flex: 1 1 100%;
+    padding: 5px 0;
+    gap: 5px;
+}
+.access_contrl_header .access_contrl_text{
+    font-size: 16px;
+    font-weight: 700;
+    color: #9E9E9E;
+    width: 100%;
+}
+.access_contrl_hr{
+    height: 2px;
+    background-color: #FCFCFD;
+    border: none;
+}
+.access_contrl_section{
+    display: flex;
+    flex: 1 1 100%;
+    padding: 5px 0;
+    gap: 5px;
+}
+.access_contrl_section:hover{
+    background-color: #FCFCFD;
+}
+.access_contrl_section .access_contrl_text_ln{
+    width: 100%;
+    font-size: 16px;
+    width: 100%;
+}
+.access_contrl_action_div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.access_contrl_action_div .delete_button{
+    border: none;
+    background-color: transparent;
+    color: #EB5757;
+}
+.access_contrl_action_div .edit_button{
+    border: none;
+    background-color: transparent;
+    color: #2F80ED;
+}
+.access_contrl_section .access_contrl_status_successful{
+    color: #00A520;
+    background-color: #E0F4E8;
+    border-radius: 5px;
+    height: 20px;
+    padding: 3px;
+    max-width: 90px;
+    text-align: center;
+
+}
+.access_contrl_section .access_contrl_status_failed{
+    color: #FF0000;
+    background-color: #F8E3E6;
+    border-radius: 5px;
+    padding: 3px;
+    max-width: 90px;
+    text-align: center;
+}
+.access_contrl_add_customer_container{
+    position: absolute;
+    top: 300px;
+    left: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.access_contrl_add_member_cont{
+    position: absolute;
+    top: 300px;
+    left: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}

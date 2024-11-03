@@ -1,0 +1,20 @@
+{
+  "user_type": "Aina ya Mtumiaji",
+  "tag": "Tag",
+  "dashboard": "Dashibodi",
+  "fund_wallet": "Fadhili Wallet",
+  "send_money": "Tuma Pesa",
+  "set_wallet_pin": "Weka Nambari ya Siri ya Wallet",
+  "pay_bills": "Lipa Bili",
+  "transaction_history": "Historia ya Miamala",
+  "cards": "Kadi",
+  "dispute": "Mgogoro",
+  "settings": "Mipangilio",
+  "support": "Msaada",
+  "make_donations": "Toa Misaada",
+  "wallet_currency": "Sarafu ya Wallet",
+  "wallet_management": "Usimamizi wa Mifuko",
+  "add_wallet": "Ongeza Mfuko",
+  "wallet_summary": "Muhtasari wa Mfuko",
+  "wallet_withdrawal": "Uondoaji wa Mkoba"
+}

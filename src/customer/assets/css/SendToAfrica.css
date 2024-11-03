@@ -1,0 +1,62 @@
+.send-to-africa-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.send-to-africa-title {
+  text-align: center;
+  color: #333;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.send-to-africa-form .form-group {
+  margin-bottom: 1.5rem;
+}
+
+.send-to-africa-form .form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #555;
+}
+
+.send-to-africa-form .form-group input,
+.send-to-africa-form .form-group textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  color: #333;
+  transition: border-color 0.2s ease-in-out;
+}
+
+.send-to-africa-form .form-group input:focus,
+.send-to-africa-form .form-group textarea:focus {
+  border-color: #b20c02;
+}
+
+.send-to-africa-form .submit-button {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: #b20c02;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.send-to-africa-form .submit-button:hover {
+  background-color: #b20c02;
+}
+
+.send-to-africa-form .form-control {
+  margin-bottom: 1rem;
+}

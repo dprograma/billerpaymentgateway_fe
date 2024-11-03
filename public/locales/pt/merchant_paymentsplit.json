@@ -1,0 +1,19 @@
+{
+    "payment_split": "Divisão de Pagamento",
+    "payment_split_description": "Gerencie a distribuição de pagamentos entre diferentes membros ou subcontas.",
+    "create_payment_split": "Criar Divisão de Pagamento",
+    "my_percentage": "Minha porcentagem: 50%",
+    "edit": "Editar",
+    "split_name": "Nome da divisão",
+    "description": "Descrição",
+    "currency": "Moeda",
+    "sub_account": "Subcontas",
+    "new_business_project": "Novo Projeto de Negócio",
+    "add_member": "Adicionar Membro",
+    "member": "Membro",
+    "date_added": "Data de Adição",
+    "bank_details": "Detalhes Bancários",
+    "percentage": "Porcentagem",
+    "amount_earned": "Quantia Ganha",
+    "actions": "Ações"
+}

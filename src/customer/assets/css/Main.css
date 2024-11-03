@@ -1,0 +1,46 @@
+.main-container {
+  padding: 16px;
+  min-height: 100vh;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.wallet-icon {
+  font-size: 1.4rem;
+  border: 10px solid #eee;
+  border-radius: 50%;
+  color: #b20c02;
+}
+
+.card-size {
+  height: 200px;
+}
+
+.wallet-icon:hover {
+  transform: scale(1.05);
+  border-color: #a0b4de;
+  color: #b20c02;
+ }
+
+.text-secondary {
+  font-size: .7rem;
+}
+
+.badge {
+  font-size: .5rem;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  font-size: 1rem;
+}

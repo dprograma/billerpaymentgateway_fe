@@ -1,0 +1,17 @@
+{
+    "merchant_account": "Merchant Account Creation",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "phone_number": "Phone Number",
+    "tel": "+234",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "create_account": "Create Account",
+    "already_have_account": "Already have an account?",
+    "sign_in": "Sign in",
+    "join_us": "Join Us Now!",
+    "create_your_account": "Create your account and explore endless possibilities.",
+    "i_agree": "I agree to the",
+    "terms_and_conditions": "Terms and Conditions"
+}

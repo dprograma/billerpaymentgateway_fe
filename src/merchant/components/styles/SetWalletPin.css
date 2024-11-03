@@ -1,0 +1,42 @@
+    .set-wallet-pin {
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f7f7f7;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .set-wallet-pin h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 24px;
+      color: #333;
+    }
+    .set-wallet-pin-form .form-group {
+      margin-bottom: 15px;
+    }
+    .set-wallet-pin-form label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+      color: #333;
+    }
+    .set-wallet-pin-form .form-input {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .set-wallet-pin-form .btn {
+      width: 100%;
+      padding: 10px;
+      background-color: #B20C02;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    .set-wallet-pin-form .btn:hover {
+      background-color: #B20C02;
+    }

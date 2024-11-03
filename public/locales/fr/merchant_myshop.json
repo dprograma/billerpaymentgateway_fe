@@ -1,0 +1,13 @@
+{
+    "email_already_exist": "Cet email existe déjà.",
+    "my_shops": "Mes Boutiques",
+    "my_shop_description": "Gérez et visualisez toutes vos boutiques en un seul endroit.",
+    "create_shop": "Créer une Boutique",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "filter_by_date": "Filtrer par date",
+    "filter_by_amount": "Filtrer par montant",
+    "shop_name": "Nom de la Boutique",
+    "description": "Description",
+    "status": "Statut"
+}

@@ -1,0 +1,78 @@
+.paym_req_super_container1{
+    padding: 20px;
+}
+.paym_req_det_super_container_blur{
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+}
+.paym_req_det_title_wrapper{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0 0 10px 0;
+}
+.paym_req_det_title{
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0;
+    width: 100%;
+}
+.paym_req_det_section_wrapper{
+    background-color: #CBE0FD;
+    padding: 20px;
+    margin: 40px 10px 40px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.paym_req_det_item_section{
+    margin: 40px 10px 40px 10px;
+}
+.paym_req_det_hr{
+    height: 1px;
+    background-color: #E9E9E9;
+    margin: 40px 10px 40px 10px;
+}
+.paym_req_det_text{
+    margin: 10px;
+    width: 100%;
+}
+.paym_req_det_serv_section_wrapper{
+    margin: 10px;
+}
+.paym_req_det_serv_section{
+    display: flex;
+    justify-content: space-between;
+}
+.paym_req_rec_wrapper{
+    display: flex;
+    gap: 40px;
+}
+.paym_req_det_rec_container{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.paym_req_rec_amt{
+    font-size: 12px;
+    color: #1FBE42;
+}
+.paym_req_rec_date{
+    font-size: 12px;
+    color: #FFA24C;
+}
+.paym_req_rec_desc{
+    font-size: 12px;
+    color: #2D9CDB;
+}
+.paym_req_det_bal_sht_sub{
+    display: flex;
+}
+.paym_req_det_bal_due{
+    color: #FF3636;
+}
+.paym_req_det_bold{
+    font-weight: 700;
+}
+.paym_req_det_bal_sht_sub p:nth-child(1){
+    margin-right: 10px;
+}

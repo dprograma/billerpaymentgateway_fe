@@ -1,0 +1,110 @@
+
+.cust_super_container{
+    padding: 20px;
+}
+.cust_super_container_blur{
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+}
+.cust_header_info{
+}
+.cust_header_title{
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.cust_desc_text{
+    margin-top: 2px;
+    margin-bottom: 30px;
+}
+.cust_addNewCustomer_btn{
+    background-color: #B20C02;
+    color: #FFFFFF;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    float: right;
+    width: 200px;
+}
+.cust_search_bar_container{
+    width: 50%;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+.cust_search_box{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 70%;
+    height: 48px;
+    border-radius: 10px;
+    font-size: 16px;
+    box-shadow: 0 0 5px #D0D5DD;
+    border: 2px solid #D0D5DD;
+    padding-left: 10px;
+
+}
+
+#cust_search_input{
+    border: none;
+    height: 100%;
+    margin: 0;
+    outline: none;
+    scale: none;
+    color: #667085;
+    font-size: 16px;
+}
+.cust_search_filter{
+    height: 53px;
+    border-radius: 10px;
+    background-color: transparent;
+    text-align: center;
+    font-size: 16px;
+    box-shadow: 0 0 4px #D0D5DD;
+    border: 2px solid #D0D5DD;
+    color: #667085;
+}
+.cust_header{
+    display: flex;
+    flex: 1 1 100%;
+    padding: 0 10px 0 10px;
+    gap: 5px;
+}
+.cust_header .cust_text{
+    font-size: 16px;
+    font-weight: 700;
+    color: #9E9E9E;
+    width: 100%;
+}
+.cust_hr{
+    height: 2px;
+    background-color: #FCFCFD;
+    border: none;
+}
+.cust_add_customer_container{
+    position: absolute;
+    top: 300px;
+    left: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+
+
+
+
+
+
+/* Customers2 */
+.cust_tab_container{
+    width: 250px;
+    display: flex;
+    margin: 20px;
+    background-color: #ECF1F4;
+    height: 38px;
+    border-radius: 10px;
+}

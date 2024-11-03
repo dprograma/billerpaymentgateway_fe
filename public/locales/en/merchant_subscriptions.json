@@ -1,0 +1,11 @@
+{
+    "subscription_plans": "Subscription Plans",
+    "create_flexible":"Create flexible subscription plans tailored for your business",
+    "create_new": "Create New Plan", 
+    "filter_by_date": "Filter by date",
+    "filter_by_amount": "Filter by amount",
+    "name_of_plan": "Name of Plan",
+    "cost": "Cost",
+    "frequency": "Frequency",
+    "subscribers": "Subscribers"
+}

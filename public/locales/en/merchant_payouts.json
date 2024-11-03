@@ -1,0 +1,16 @@
+{
+    "withdrawals": "Withdrawals",
+    "descriptive_body": "Withdrawal your wallet funds to your personal bank account.",
+    "request_withdrawal": "Request Withdrawal",
+    "search": "Search",
+    "filter": "Filter",
+    "filter_by_date": "Filter by date",
+    "filter_by_amount": "Filter by amount",
+    "wallet_balance": "Wallet Balance",
+    "available_balance": "Available Balance",
+    "total_requested": "Total Requested",
+    "total_received": "Total Received",
+    "amount": "Amount",
+    "date_requested": "Date Requested",
+    "status": "Status"
+}

@@ -1,0 +1,46 @@
+.pagination {
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.page-item {
+  background-color: #ffffff; 
+  margin: 0 5px;
+  border-radius: 3px;
+}
+
+.page-link {
+  background-color: #b20c02; 
+  color: #b20c02;
+  border: 1px solid #dee2e6;
+  border-radius: 3px;
+}
+
+.page-item.active .page-link {
+  background-color: #b20c02; 
+  color: #fff;
+  border-color: #b20c02;
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  transition: 0.3s ease-in-out;
+}
+
+button {
+  background-color: #b20c02;
+  color: #fff;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #ff5733;
+  transition: 0.3s ease-in-out;
+}
+

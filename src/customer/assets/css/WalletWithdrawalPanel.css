@@ -1,0 +1,77 @@
+/* Main Panel */
+.wallet_withdrawal_panel {
+    padding: 30px;
+    background-color: #f5f7fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+    transition: filter 0.3s ease;
+}
+
+/* Blur effect when modal is active */
+/* .wallet_withdrawal_panel.blur {
+    filter: blur(5px);
+} */
+
+/* Panel Title */
+.panel_title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Wallet List */
+.wallet_list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Wallet Item */
+.wallet_item {
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+    border: 1px solid transparent;
+}
+
+.wallet_item:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-color: #4caf50;
+}
+
+/* Wallet Type and Balance */
+.wallet_type, .wallet_balance {
+    font-size: 16px;
+    color: #555;
+}
+
+.wallet_balance strong {
+    color: #4caf50;
+}
+
+/* No wallets text */
+.no_wallets_text {
+    font-size: 16px;
+    color: #999;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Spinner */
+.spinner_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+

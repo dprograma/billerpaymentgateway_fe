@@ -1,0 +1,138 @@
+
+.cust_info_super_container{
+    
+}
+.cust_info_super_container_blur{
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+}
+.cust_info_header_info{
+}
+.cust_info_header_title{
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.cust_info_desc_text{
+    margin-top: 2px;
+    margin-bottom: 30px;
+}
+.cust_info_addNewCustomer_btn{
+    background-color: #B20C02;
+    color: #FFFFFF;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    float: right;
+    width: 200px;
+}
+.cust_info_search_bar_container{
+    width: 50%;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+.cust_info_search_box{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 70%;
+    height: 48px;
+    border-radius: 10px;
+    font-size: 16px;
+    box-shadow: 0 0 5px #D0D5DD;
+    border: 2px solid #D0D5DD;
+    padding-left: 10px;
+
+}
+
+#cust_info_search_input{
+    border: none;
+    height: 100%;
+    margin: 0;
+    outline: none;
+    scale: none;
+    color: #667085;
+    font-size: 16px;
+}
+.cust_info_search_filter{
+    height: 53px;
+    border-radius: 10px;
+    background-color: transparent;
+    text-align: center;
+    font-size: 16px;
+    box-shadow: 0 0 4px #D0D5DD;
+    border: 2px solid #D0D5DD;
+    color: #667085;
+}
+.cust_info_header{
+    display: flex;
+    flex: 1 1 100%;
+    padding: 0 10px 0 10px;
+    gap: 5px;
+}
+.cust_info_header .cust_info_text{
+    font-size: 16px;
+    font-weight: 700;
+    color: #9E9E9E;
+    width: 100%;
+}
+.cust_info_hr{
+    height: 2px;
+    background-color: #FCFCFD;
+    border: none;
+}
+.cust_info_section{
+    display: flex;
+    flex: 1 1 100%;
+    padding: 0 10px 0 10px;
+    gap: 5px;
+}
+.cust_info_section .cust_info_text_ln{
+    width: 100%;
+    font-size: 16px;
+}
+.cust_info_section .cust_info_action_div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.cust_info_action_div .delete_button{
+    border: none;
+    background-color: transparent;
+    color: #EB5757;
+
+}
+.cust_info_action_div .edit_button{
+    border: none;
+    background-color: transparent;
+    color: #2F80ED;
+}
+.cust_info_section .cust_info_status_successful{
+    color: #00A520;
+    background-color: #E0F4E8;
+    border-radius: 5px;
+    height: 20px;
+    padding: 3px;
+    max-width: 90px;
+    text-align: center;
+
+}
+.cust_info_section .cust_info_status_failed{
+    color: #FF0000;
+    background-color: #F8E3E6;
+    border-radius: 5px;
+    padding: 3px;
+    max-width: 90px;
+    text-align: center;
+}
+.cust_info_add_customer_container{
+    position: absolute;
+    top: 300px;
+    left: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}

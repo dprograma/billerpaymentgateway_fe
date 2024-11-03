@@ -1,0 +1,16 @@
+{
+    "withdrawals": "Retiros",
+    "descriptive_body": "Un texto descriptivo viene aquí",
+    "request_withdrawal": "Solicitar retiro",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "filter_by_date": "Filtrar por fecha",
+    "filter_by_amount": "Filtrar por cantidad",
+    "wallet_balance": "Saldo de la billetera",
+    "available_balance": "Saldo disponible",
+    "total_requested": "Total solicitado",
+    "total_received": "Total recibido",
+    "amount": "Cantidad",
+    "date_requested": "Fecha solicitada",
+    "status": "Estado"
+}

@@ -1,0 +1,78 @@
+.trans_sup_cont{
+}
+.trans_title1{
+    font-size: 22px;
+    font-weight: 600;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+.trans_overview{
+    display: flex;
+    flex: 1 1 100%;
+    gap: 20px;
+    
+}
+.trans_overview_sec{
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.trans_overview_sec div p{
+    margin: 0;
+}
+.trans_overview_icn{
+    
+}
+.trans_overview_desc{
+    font-weight: 300;
+}
+.trans_overview_amt{
+    font-size: 12px;
+    font-size: 22px;
+    font-weight: 600;
+}
+.trans_trans_cont{
+    padding: 20px;
+    background-color: #FFFFFF;
+    margin: 20px 0 20px 0;
+}
+.trans_search_cont{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.trans_search_input_wrpr{
+ display: flex;
+ align-items: center;
+ gap: 10px;
+}
+.trans_search_box{
+    border: 1px solid black;
+}
+.trans_search_icn{
+    position: relative;
+    right: 50px;
+}
+.trans_search_btn{
+    border: 1px solid black;
+    width: 80px;
+    background-color: transparent;
+    border-radius: 10px;
+}
+.trans_trans_hd{
+    display: flex;
+    flex: 1 1 100%;
+    background-color: #D4D4D4;
+    padding: 10px;
+    margin: 0;
+}
+.trans_trans_hd_txt{
+    width: 100px;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0;
+}

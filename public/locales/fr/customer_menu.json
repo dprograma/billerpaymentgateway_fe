@@ -1,0 +1,20 @@
+{
+  "user_type": "Type d'utilisateur",
+  "tag": "Tag",
+  "dashboard": "Tableau de bord",
+  "fund_wallet": "Alimenter le portefeuille",
+  "send_money": "Envoyer de l'argent",
+  "set_wallet_pin": "Définir le code PIN du portefeuille",
+  "pay_bills": "Payer les factures",
+  "transaction_history": "Historique des transactions",
+  "cards": "Cartes",
+  "dispute": "Litige",
+  "settings": "Paramètres",
+  "support": "Support",
+  "make_donations": "Faire des dons",
+  "wallet_currency": "Monnaie du portefeuille",
+  "wallet_management": "Gestion de Portefeuilles",
+  "add_wallet": "Ajouter un Portefeuille",
+  "wallet_summary": "Résumé du Portefeuille",
+  "wallet_withdrawal": "Retrait de Portefeuille"
+}

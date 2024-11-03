@@ -1,0 +1,46 @@
+.succ_modal_container {
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff; 
+  z-index: 1001; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.succ_modal_wrpr {
+  background-color: #dbffec;
+  padding: 10px;
+  border-radius: 50%;
+}
+.succ_modal_text {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0;
+}
+.success_modal_ok_btn {
+  background-color: #b20c02;
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  color: #ffffff;
+  height: 48px;
+  margin-top: 20px;
+  border: none;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}

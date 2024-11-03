@@ -1,0 +1,16 @@
+{
+  "welcome": "Karibu kwenye App ya Mtumiaji ya Ojapay",
+  "login": "Ingia kwenye dashibodi yako na twende!",
+  "email": "Barua pepe",
+  "password": "Nenosiri",
+  "login_button": "Ingia",
+  "dont_have_account": "Huna akaunti?",
+  "signup_button": "Jiandikishe",
+  "forgot_password": "Umesahau nenosiri?",
+  "enter_password": "Ingiza nenosiri lako",
+  "enter_email": "Ingiza barua pepe yako",
+  "email_required": "Barua pepe inahitajika",
+  "password_required": "Nenosiri linahitajika",
+  "welcome_back": "Karibu tena!",
+  "sign_in_to_continue": "Ingia kuendelea kwenye akaunti yako na kufikia dashibodi yako ya kibinafsi."
+}

@@ -1,0 +1,14 @@
+{
+  "transaction_history": "Histórico de transações",
+  "here_you_can_view": "Aqui você pode ver seu histórico de transações.",
+  "data": "Data",
+  "type": "Tipo",
+  "status": "Status",
+  "example_payment": "ex.: Pagamento, Recarga",
+  "all": "Todos",
+  "completed": "Concluído",
+  "pending": "Pendente",
+  "failed": "Falhou",
+  "description": "Descrição",
+  "amount": "Valor"
+}

@@ -1,0 +1,32 @@
+.trans_sec{
+    display: flex;
+    flex: 1 1 100%;
+    margin: 0;
+    padding: 10px;
+}
+.gray{
+    background-color: #F5F5F5;
+}
+.trans_txt{
+    font-size: 12px;
+    font-weight: 40;
+    width: 100px;
+    white-space: normal;
+    overflow-wrap: break-word;
+    white-space: normal;
+}
+.successful{
+    color: #27AE60;
+}
+.failed{
+    color: #EB5757;
+}
+.table_title{
+    background-color: #B20C02;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+    width: 60px;
+    border-radius: 5px;
+    color: #FFFFFF;
+}

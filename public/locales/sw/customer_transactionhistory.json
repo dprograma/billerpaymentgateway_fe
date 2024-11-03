@@ -1,0 +1,14 @@
+{
+  "transaction_history": "Historia ya Miamala",
+  "here_you_can_view": "Hapa unaweza kuona historia ya miamala yako.",
+  "data": "Tarehe",
+  "type": "Aina",
+  "status": "Hali",
+  "example_payment": "mfano, Malipo, Kuongeza fedha",
+  "all": "Yote",
+  "completed": "Imekamilika",
+  "pending": "Inasubiri",
+  "failed": "Imeshindwa",
+  "description": "Maelezo",
+  "amount": "Kiasi"
+}

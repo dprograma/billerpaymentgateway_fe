@@ -1,0 +1,143 @@
+.transactions_super_container{
+    padding: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+/* .transactions_super_container_blur{
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+    
+} */
+.trans_container{
+    flex: 1 1 100%;
+    box-shadow: 0 1px 3px rgba(158, 158, 158, 0.5);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.trans_title{
+    font-size: 13px;
+    font-weight: 700;
+    color: #9E9E9E;
+    margin: 0;
+}
+.trans_wrapper{
+    display: flex;
+    align-items: center;
+}
+.trans_amount{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 5px;
+}
+.trans_chart_up{
+    color: #00A520;
+    display: flex;
+    align-items: center;
+}
+.trans_chart_down{
+    color: #FF0000;
+    display: flex;
+    align-items: center;
+}
+.header_title{
+    font-size: 19px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 0;
+}
+.revenue_super_container{
+    padding: 10px;
+    margin: 0 auto 0 auto;
+}
+.revenue{
+    display: flex;
+    gap: 10px;
+}
+.rev_container{
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.rev_net_color{
+    width: 10px;
+    height: 10px;
+    background-color: #F7992C;
+}
+.rev_gross_color{
+    width: 10px;
+    height: 10px;
+    background-color: #29ABE2;
+}
+.rev_title{
+    font-size: 13px;
+    font-weight: 700;
+    color: #9E9E9E;
+    margin: 0;
+}
+.rev_wrapper2{
+    display: flex;
+    align-items: center;
+}
+.rev_wrapper1{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.rev_amount{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 5px;
+}
+.rev_chart_up{
+    color: #00A520;
+    display: flex;
+    align-items: center;
+}
+.rev_filter_container{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+.rev_filter{
+    height: 38px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgba(56, 57, 58, 0.1);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+}
+.rev_percent{
+
+}
+.translog_super_container{
+    
+}
+
+.translog_header{
+    display: flex;
+    flex: 1 1 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #FCFCFD;
+}
+.translog_header .tlog_text{
+    font-size: 16px;
+    font-weight: 700;
+    color: #9E9E9E;
+    width: 100%;
+}
+.translog_hr{
+    height: 1px;
+    background-color: #D9D9D9;
+    border: none;
+}

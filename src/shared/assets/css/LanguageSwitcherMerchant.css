@@ -1,0 +1,27 @@
+.language-switcher-merchant {
+    background-color: #b20c02;
+    border-radius: 10px;
+  }
+  
+  .language-switcher-merchant .dropdown-toggle {
+    background-color: #b20c02;
+    color: #ffffff;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+  }
+  
+  .language-switcher-merchant .dropdown-menu {
+    background-color: #b20c02;
+    color: #ffffff;
+  }
+  
+  .language-switcher-merchant .dropdown-item {
+    color: #ffffff;
+  }
+  
+  .language-switcher-merchant .dropdown-item:hover {
+    background-color: #b20c02;
+    color: #ffffff;
+  }
+  

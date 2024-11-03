@@ -1,0 +1,22 @@
+{
+  "send_money": "Send Money",
+  "local_transfer": "Local Transfer",
+  "wallet_to_wallet": "Wallet to Wallet",
+  "send_to_africa": "Send to Africa",
+  "international": "International",
+  "senders_acctno": "Sender's Account Number",
+  "recipients_acctno": "Recipient's Account Number",
+  "amount": "Amount",
+  "description": "Description",
+  "international_transfer": "International Transfer",
+  "wallet_to_wallet_transfer": "Wallet to Wallet Transfer",
+  "recipients_tag": "Recipient's Wallet Tag",
+  "tag_example": "e.g John",
+  "tag_required": "User tag is required",
+  "senders_walletId": "Sender's Wallet ID",
+  "pin_example": "e.g 1234",
+  "pin_required": "Wallet pin is required",
+  "amount_example": "e.g 3000",
+  "amount_required": "Amount is required",
+  "comment": "Comment"
+}

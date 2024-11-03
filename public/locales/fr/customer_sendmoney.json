@@ -1,0 +1,22 @@
+{
+  "send_money": "Envoyer de l'argent",
+  "local_transfer": "Transfert local",
+  "wallet_to_wallet": "De portefeuille à portefeuille",
+  "send_to_africa": "Envoyer en Afrique",
+  "international": "International",
+  "senders_acctno": "Numéro de compte de l'expéditeur",
+  "recipients_acctno": "Numéro de compte du destinataire",
+  "amount": "Montant",
+  "description": "Description",
+  "international_transfer": "Transfert international",
+  "wallet_to_wallet_transfer": "Transfert de portefeuille à portefeuille",
+  "recipients_tag": "Tag du portefeuille du destinataire",
+  "tag_example": "par exemple, John",
+  "tag_required": "Le tag utilisateur est requis",
+  "senders_walletId": "ID de portefeuille de l'expéditeur",
+  "pin_example": "par exemple, 1234",
+  "pin_required": "Le code PIN du portefeuille est requis",
+  "amount_example": "par exemple, 3000",
+  "amount_required": "Le montant est requis",
+  "comment": "Commentaire"
+}

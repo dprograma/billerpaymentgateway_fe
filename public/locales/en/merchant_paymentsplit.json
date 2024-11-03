@@ -1,0 +1,19 @@
+{
+    "payment_split": "Payment Split",
+    "payment_split_description": "Manage the distribution of payments among different members or sub-accounts.",
+    "create_payment_split": "Create Payment Split",
+    "my_percentage": "My percentage: 50%",
+    "edit": "Edit",
+    "split_name": "Split Name",
+    "description": "Description",
+    "currency": "Currency",
+    "sub_account": "Sub Accounts",
+    "new_business_project": "New Business Project",
+    "add_member": "Add Member",
+    "member": "Member",
+    "date_added": "Date Added",
+    "bank_details": "Bank Details",
+    "percentage": "Percentage",
+    "amount_earned": "Amount Earned",
+    "actions": "Actions"
+}

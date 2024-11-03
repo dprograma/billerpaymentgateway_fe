@@ -1,0 +1,18 @@
+{
+  "wallet_balance": "Saldo da carteira",
+  "available_balance": "Saldo disponível",
+  "failed_transactions": "Transações falhadas",
+  "new_customers": "Novos clientes",
+  "revenue": "Receita",
+  "gross_volume": "Volume bruto",
+  "net_volume": "Volume líquido",
+  "filter_by_date": "Filtrar por data",
+  "filter_by_amount": "Filtrar por valor",
+  "transactions": "Transações",
+  "customer": "Cliente",
+  "date": "Data",
+  "item": "Item",
+  "status": "Status",
+  "payment_method": "Método de pagamento",
+  "amount": "Valor"
+}

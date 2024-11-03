@@ -1,0 +1,16 @@
+{
+    "withdrawals": "Muamala wa Kujiondoa",
+    "descriptive_body": "Ondoa pesa kutoka kwenye pochi yako hadi akaunti yako ya benki binafsi.",
+    "request_withdrawal": "Omba Kujiondoa",
+    "search": "Tafuta",
+    "filter": "Chuja",
+    "filter_by_date": "Chuja kwa tarehe",
+    "filter_by_amount": "Chuja kwa kiasi",
+    "wallet_balance": "Salio la Pochi",
+    "available_balance": "Salio Lililopo",
+    "total_requested": "Jumla Iliyotakiwa",
+    "total_received": "Jumla Iliyopokelewa",
+    "amount": "Kiasi",
+    "date_requested": "Tarehe Iliyotakiwa",
+    "status": "Hali"
+}

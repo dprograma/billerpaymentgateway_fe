@@ -1,0 +1,20 @@
+{
+  "user_type": "Tipo de usuário",
+  "tag": "Etiqueta",
+  "dashboard": "Painel de controle",
+  "fund_wallet": "Fundos da carteira",
+  "send_money": "Enviar dinheiro",
+  "set_wallet_pin": "Definir PIN da carteira",
+  "pay_bills": "Pagar contas",
+  "transaction_history": "Histórico de transações",
+  "cards": "Cartões",
+  "dispute": "Disputa",
+  "settings": "Configurações",
+  "support": "Suporte",
+  "make_donations": "Fazer doações",
+  "wallet_currency": "Moeda da carteira",
+  "wallet_management": "Gestão de Carteira",
+  "add_wallet": "Adicionar Carteira",
+  "wallet_summary": "Resumo da Carteira",
+  "wallet_withdrawal": "Retirada de Carteira"
+}

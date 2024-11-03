@@ -1,0 +1,9 @@
+{
+    "merchant_login": "Inicio de Sesión del Comerciante",
+    "email_or_phone": "Correo Electrónico o Número de Teléfono",
+    "password": "Contraseña",
+    "login": "Iniciar Sesión",
+    "forgot_password": "¿Olvidaste tu Contraseña?",
+    "dont_have_account": "¿No tienes una cuenta?",
+    "create_account": "Crear una Cuenta"
+}

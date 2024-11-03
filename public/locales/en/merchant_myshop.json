@@ -1,0 +1,14 @@
+{
+    "email_already_exist": "This email already exists.",
+    "my_shops": "My Shops",
+    "my_shop_description": "Manage and view all your shops in one place.",
+    "create_shop": "Create Shop",
+    "search": "Search",
+    "filter": "Filter",
+    "filter_by_date": "Filter by date",
+    "filter_by_amount": "Filter by amount",
+    "shop_name": "Shop Name",
+    "description": "Description",
+    "status": "Status"
+}
+

@@ -1,0 +1,17 @@
+{
+    "transactions": "Muamala",
+    "transaction_details": "Maelezo ya Muamala",
+    "search": "Tafuta",
+    "filter": "Chuja",
+    "filter_by_date": "Chuja kwa tarehe",
+    "filter_by_amount": "Chuja kwa kiasi",
+    "export_csv": "Hamisha CSV",
+    "export_pdf": "Hamisha PDF",
+    "ref_no": "Namba ya Rejea",
+    "name": "Jina",
+    "date": "Tarehe",
+    "item": "Bidhaa",
+    "status": "Hali",
+    "mode": "Njia ya Malipo",
+    "amount": "Kiasi"
+}

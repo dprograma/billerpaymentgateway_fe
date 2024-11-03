@@ -1,0 +1,180 @@
+.menu-container {
+  width: 270px;
+  background-color: #b20c02; /* Updated background color */
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff; /* Set default text color to white */
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+  border: 2px solid #ffffff; /* Add border for better contrast */
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-name {
+  font-size: 16px; 
+  font-weight: 500;
+  margin-bottom: 5px;
+  color: #ffffff; /* Set text color to white */
+}
+
+.customer-id {
+  font-size: 12px; 
+  color: #ffffff; /* Set text color to white */
+}
+
+.badge {
+  font-size: 14px !important;
+  font-weight: 100 !important;
+  background-color: #000000 !important; /* Set background to black */
+  color: #ffffff !important; /* Set text color to white */
+  padding: 5px 10px !important;
+  border-radius: 12px !important; /* Rounded badge */
+}
+
+.menu-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-item {
+  display: flex !important;
+  align-items: center !important;
+  padding: 10px 15px !important; /* Adjusted padding for a cleaner look */
+  margin-bottom: 10px !important; /* Adjusted margin for better spacing */
+  cursor: pointer !important;
+  transition: background-color 0.3s, color 0.3s;
+  border-radius: 5px !important;
+  background-color: #b20c02 !important; /* Set default background color */
+  color: #ffffff !important; /* Set text color to white */
+}
+
+.menu-item:hover {
+  background-color: #ffffff !important; /* Change background to white on hover */
+  color: #b20c02 !important; /* Change text color to #b20c02 on hover */
+}
+
+.menu-item.active {
+  background-color: #ffffff !important; /* Change background to white when active */
+  color: #b20c02 !important; /* Change text color to #b20c02 when active */
+}
+
+.menu-icon {
+  margin-right: 8px !important; 
+  font-size: 18px !important; 
+  color: inherit !important; /* Inherit color from parent element */
+}
+
+.menu-text {
+  font-size: 14px !important;
+  color: inherit !important; /* Inherit color from parent element */
+}
+
+/* Navbar styling */
+.navbar {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 0 2rem;
+  background-color: #b20c02; /* Match navbar with menu color */
+  color: #ffffff; /* Set text color to white */
+}
+
+.navbar-brand img.logo {
+  max-height: 30px;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.offcanvas-header {
+  padding: 1rem;
+}
+
+.offcanvas-body {
+  padding: 1rem;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 1rem;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1rem;
+  color: #ffffff; /* Set text color to white */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #b20c02; /* Set text color to #b20c02 on hover */
+}
+
+.navbar-nav .avatar {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+
+.navbar-nav .add-icon {
+  font-size: 1.5rem;
+  color: #ffffff; /* Set icon color to white */
+}
+
+.navbar-nav .add-icon:hover {
+  color: #b20c02; /* Change icon color to #b20c02 on hover */
+}
+
+.sticky-top {
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+}
+
+.submenu-items {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.submenu-item {
+  cursor: pointer;
+  padding: 10px 0;
+}
+
+.submenu-item:hover {
+  background-color: #f0f0f0;
+}
+
+.menu-item.active .menu-text {
+  font-weight: bold;
+}
+
+.menu-icon {
+  margin-right: 10px;
+}
+
+
+/* Responsive styles */
+@media (max-width: 767px) {
+  .navbar-nav {
+      flex-direction: column;
+      align-items: flex-start;
+  }
+}

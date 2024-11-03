@@ -1,0 +1,22 @@
+{
+  "send_money": "Tuma Pesa",
+  "local_transfer": "Hamisho la Ndani",
+  "wallet_to_wallet": "Wallet kwa Wallet",
+  "send_to_africa": "Tuma kwa Afrika",
+  "international": "Kimataifa",
+  "senders_acctno": "Nambari ya Akaunti ya Mtumaji",
+  "recipients_acctno": "Nambari ya Akaunti ya Mpokeaji",
+  "amount": "Kiasi",
+  "description": "Maelezo",
+  "international_transfer": "Hamisho la Kimataifa",
+  "wallet_to_wallet_transfer": "Hamisho la Wallet kwa Wallet",
+  "recipients_tag": "Tag ya Wallet ya Mpokeaji",
+  "tag_example": "mfano John",
+  "tag_required": "Tag ya mtumiaji inahitajika",
+  "senders_walletId": "Wallet ID ya Mtumaji",
+  "pin_example": "mfano 1234",
+  "pin_required": "Nambari ya siri ya wallet inahitajika",
+  "amount_example": "mfano 3000",
+  "amount_required": "Kiasi kinahitajika",
+  "comment": "Maoni"
+}

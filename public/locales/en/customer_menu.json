@@ -1,0 +1,20 @@
+{
+  "user_type": "User Type",
+  "tag": "Tag",
+  "dashboard": "Dashboard",
+  "fund_wallet": "Fund Wallet",
+  "send_money": "Send Money",
+  "set_wallet_pin": "Set Wallet Pin",
+  "pay_bills": "Pay Bills",
+  "transaction_history": "Transaction History",
+  "cards": "Cards",
+  "dispute": "Dispute",
+  "settings": "Settings",
+  "support": "Support",
+  "make_donations": "Make Donations",
+  "wallet_currency":"Wallet Currency",
+  "wallet_management": "Wallet Management",
+  "add_wallet": "Add Wallet",
+  "wallet_summary": "Wallet Summary",
+  "wallet_withdrawal": "Wallet Withdrawal"
+}

@@ -1,0 +1,22 @@
+{
+  "send_money": "Enviar dinheiro",
+  "local_transfer": "Transferência local",
+  "wallet_to_wallet": "De carteira para carteira",
+  "send_to_africa": "Enviar para a África",
+  "international": "Internacional",
+  "senders_acctno": "Número da conta do remetente",
+  "recipients_acctno": "Número da conta do destinatário",
+  "amount": "Montante",
+  "description": "Descrição",
+  "international_transfer": "Transferência internacional",
+  "wallet_to_wallet_transfer": "Transferência de carteira para carteira",
+  "recipients_tag": "Etiqueta da carteira do destinatário",
+  "tag_example": "exemplo, John",
+  "tag_required": "Etiqueta de usuário é necessária",
+  "senders_walletId": "ID da carteira do remetente",
+  "pin_example": "exemplo, 1234",
+  "pin_required": "PIN da carteira é necessário",
+  "amount_example": "exemplo, 3000",
+  "amount_required": "Montante é necessário",
+  "comment": "Comentário"
+}

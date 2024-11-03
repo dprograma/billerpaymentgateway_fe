@@ -1,0 +1,18 @@
+{
+  "wallet_balance": "Salio la Wallet",
+  "available_balance": "Salio Linalopatikana",
+  "failed_transactions": "Miamala Iliyoshindwa",
+  "new_customers": "Wateja Wapya",
+  "revenue": "Mapato",
+  "gross_volume": "Kiasi Kikubwa",
+  "net_volume": "Kiasi Halisi",
+  "filter_by_date": "Chuja kwa tarehe",
+  "filter_by_amount": "Chuja kwa kiasi",
+  "transactions": "Miamala",
+  "customer": "Mteja",
+  "date": "Tarehe",
+  "item": "Bidhaa",
+  "status": "Hali",
+  "payment_method": "Njia ya Malipo",
+  "amount": "Kiasi"
+}
